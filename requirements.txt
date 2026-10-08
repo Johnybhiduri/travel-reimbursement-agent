@@ -1,0 +1,14 @@
+# tested on python 3.12, versions are the latest I checked
+langchain>=1.4.3
+langchain-core>=1.6.7
+langchain-huggingface>=1.2.2
+langgraph>=1.2.14
+huggingface_hub>=1.33.0
+pydantic>=2.13
+pandas>=2.2
+matplotlib>=3.9
+ipywidgets>=8.1
+python-dotenv>=1.0
+notebook>=7.0
+ipykernel>=6.29
+langchain-deepseek>=1.1.1

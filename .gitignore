@@ -1,0 +1,12 @@
+# secrets, never push these
+.env
+
+# python stuff
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# jupyter stuff
+.ipynb_checkpoints/
+.DS_Store
