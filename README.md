@@ -2,7 +2,7 @@
 
 My submission for the AI developer assignment. It is a small agent that reads a travel expense claim, checks it against the company policy, and gives a decision: APPROVE, PARTIAL_APPROVE, REJECT or MANUAL_REVIEW.
 
-Everything is in one notebook: `jainendrabhiduri.ipynb` (rename it to your own name before pushing).
+Everything is in one notebook: `jainendrabhiduri.ipynb`
 
 ## What it does
 
